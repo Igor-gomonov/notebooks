@@ -1,2 +1,2 @@
 # notebooks
-notebooks with solutions to various DSP problems
+Python notebooks with my solutions to various DSP problems 
